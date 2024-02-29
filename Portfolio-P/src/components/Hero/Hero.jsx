@@ -12,9 +12,16 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a <TypedAnimation/>
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <p className={styles.description1}>I’m a software developer and here is my portfolio website. Here you’ll learn about my journey as a software developer.</p>
+        <div className={styles.buttonDiv}> 
+           <a href="mailto:manoranjankrj@gmail.com" className={styles.contactBtn}>
+           Contact Me
+           </a>
+           <a href="mailto:myemail@email.com" className={styles.contactBtn1}>
+           Resume
+           </a>
+        </div>
+        
       </div>
       <img
         src={getImageUrl("hero/heroImage.png.gif")}
