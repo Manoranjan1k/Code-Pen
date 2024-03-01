@@ -1,0 +1,11 @@
+[
+    {
+      "role": "Open Source",
+      "organisation": "Hacktoberfest",
+      "startDate": "01, oct, 2023",
+      "endDate": "31, oct, 2023",
+      "experiences": ["Contributed to CalcHub", "Added responsive CSS styles to make the Scientific Calculator layout adapt to mobile devices"],
+      "imageSrc": "history/Opensource.png"
+     }
+   
+  ]
