@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+} 
+h1{
+    color: #fff;
+}
+p{
+    color: #fff;
+}
+.Submit{
+    background: #000;
+   
+    width: 100%;
+}
+.Submit h1{
+    color: salmon;
+    font-size: 30px;
+    font-weight: 700;
+}

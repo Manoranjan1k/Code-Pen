@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Todo",
+      "imageSrc": "projects/project1.png",
+      "description": "I made a todo app with React to understand the Context API better. I also learned how to use local storage to save My todos.",
+      "skills": ["React","context Api", "redux toolkit"],
+      "demo": "https://contexttodos.netlify.app/",
+      "source": "https://github.com/Manoranjan1k/Todo_local/tree/main"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
+      "title": "Blog webapp",
+      "imageSrc": "projects/project2.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "skills": ["React","Tailwind Css","Appwrite"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Manoranjan1k/Mega_Blog"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "currency converter",
+      "imageSrc": "projects/Project3.png",
+      "description": "I built a currency converter using React and learned how to fetch data from APIs, mastering the art of handling external data sources effectively.",
+      "skills": ["React", "Express", "Node js"],
+      "demo": "https://6593b3d1b4d60c56982e60c6--sparkling-eclair-505c9d.netlify.app/",
+      "source": "https://github.com/Manoranjan1k/currencyConverter"
     }
   ]

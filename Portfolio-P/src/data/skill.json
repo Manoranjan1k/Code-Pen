@@ -1,38 +1,38 @@
 [
-    {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
-    {
-      "title": "Github",
-      "imageSrc": "skills/github.png"
-    },
-    {
-      "title": "java",
-      "imageSrc": "skills/java.png"
-    },
-    {
-        "title": "Tailwind css",
-        "imageSrc": "skills/tailwindcss.png"
-      },  
-      {
-        "title": "Javascript",
-        "imageSrc": "skills/javascript.png"
-      },
-      {
-        "title": "Mysql",
-        "imageSrc": "skills/mysql.png"
-      }
-  ]
+	{
+		"title": "HTML",
+		"imageSrc": "skills/html.png"
+	},
+	{
+		"title": "CSS",
+		"imageSrc": "skills/css.png"
+	},
+	{
+		"title": "React",
+		"imageSrc": "skills/react.png"
+	},
+	{
+		"title": "Node",
+		"imageSrc": "skills/node.png"
+	},
+	{
+		"title": "Github",
+		"imageSrc": "skills/github.png"
+	},
+	{
+		"title": "java",
+		"imageSrc": "skills/java.png"
+	},
+	{
+		"title": "Tailwind css",
+		"imageSrc": "skills/tailwindcss.png"
+	},
+	{
+		"title": "Javascript",
+		"imageSrc": "skills/javascript.png"
+	},
+	{
+		"title": "Mysql",
+		"imageSrc": "skills/mysql.png"
+	}
+]
